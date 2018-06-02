@@ -1,0 +1,9 @@
+-pretraga po naslovu (4 stavka SSU)
+-pretraga po autoru/oblasti (5 i 6 stavka SSU)
+-lista knjiga (izlazi kad se pretrazuje)
+-stranica jedne knjige
+-lista procitanih/lista zeljenih knjiga(nakon klika na dgume detealjno u stranici tekuceg korisnika)
+-stranica drugog korisnika: 4 dela koja prikazuju osnovne stvari, klikom na drugme detaljno prikazuje vise informacija
+-lista procitanih/zeljenih knjiga drugog korisnika na koju vode dugmici detaljno kod stranice drugog korisnika
+-dodavanje slike u delu profila tekuceg korisnika
+-popunjavanje tabela(u ulozi administratora) sa 30ak knjiga(naknadno dodajem jos toliko)
