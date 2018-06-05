@@ -1,0 +1,11 @@
+-registrovanje korisnika (1. stavka SSU-a)
+-prijava korisnika (2. stavka SSU-a)
+-pretrazivanje korisnika (10. stavka SSU-a)
+-slanje poruka (12. stavka SSU-a)
+-slanje formi, tj. uspesna razmena (13. stavka SSU-a)
+-PorukaController, Poruka Model
+-FormaController, Forma Model
+-view-ovi: poruka: prikazPoruke.blade.php, slanjePoruke.blade.php, sanduce.blade.php
+-view-ovi: forma: napraviFormu.blade.php, prikaziFormu.blade.php, sanduce.blade.php
+-odredjene funkcije Prosledjivac-a (Controllera), a koje se ticu gore navedenih stavki
+-kod view-a profil_drugog_korisnika dodate ikonice za poruke i forme, a koje vode do odredjenih stranica
